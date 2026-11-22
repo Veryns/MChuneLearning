@@ -1,4 +1,5 @@
 install dulu
+winget install -e --id Python.Python.3.12
 
 py -3.12 -m venv venv
 venv\Scripts\activate
