@@ -249,7 +249,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Aegislash Shield Forme",
@@ -669,7 +669,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alomomola",
@@ -837,7 +837,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Rock|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ambipom",
@@ -921,7 +921,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ampharos",
@@ -1047,7 +1047,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Fighting|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Anorith",
@@ -1131,7 +1131,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Grass|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Applin",
@@ -1173,7 +1173,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Grass|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Araquanid",
@@ -1215,7 +1215,7 @@
     "secondary_type":"Bug",
     "is_dual_type":true,
     "types":"Water|Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Arbok",
@@ -1299,7 +1299,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Grass|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Arcanine",
@@ -1509,7 +1509,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Rock|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Archeops",
@@ -1551,7 +1551,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Rock|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Arctibax",
@@ -1593,7 +1593,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Dragon|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Arctovish",
@@ -1845,7 +1845,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Aron",
@@ -1929,7 +1929,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Articuno",
@@ -2055,7 +2055,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Audino",
@@ -2139,7 +2139,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Rock|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Avalugg",
@@ -2181,7 +2181,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Avalugg",
@@ -2265,7 +2265,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Azelf",
@@ -2601,7 +2601,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Barboach",
@@ -2685,7 +2685,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Basculegion Male",
@@ -2979,7 +2979,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Dragon|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bayleef",
@@ -3063,7 +3063,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Beautifly",
@@ -3231,7 +3231,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Beldum",
@@ -3315,7 +3315,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bellossom",
@@ -3441,7 +3441,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bewear",
@@ -3483,7 +3483,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Normal|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bibarel",
@@ -3609,7 +3609,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bisharp",
@@ -3693,7 +3693,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Fire|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Blastoise",
@@ -3987,7 +3987,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Boldore",
@@ -4029,7 +4029,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Boltund",
@@ -4113,7 +4113,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Flying|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bonsly",
@@ -4197,7 +4197,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bounsweet",
@@ -4239,7 +4239,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Braixen",
@@ -4281,7 +4281,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Brambleghast",
@@ -4533,7 +4533,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Bronzong",
@@ -4701,7 +4701,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Water|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Budew",
@@ -4911,7 +4911,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Burmy Plant Cloak",
@@ -5121,7 +5121,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Bug|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cacnea",
@@ -5247,7 +5247,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Psychic|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Calyrex Ice Rider",
@@ -5499,7 +5499,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Rock|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Carkol",
@@ -5541,7 +5541,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Rock|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Carnivine",
@@ -5625,7 +5625,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Water|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Carvanha",
@@ -6003,7 +6003,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Steel|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Centiskorch",
@@ -6129,7 +6129,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cetoddle",
@@ -6171,7 +6171,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Chandelure",
@@ -6213,7 +6213,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Ghost|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Chansey",
@@ -6465,7 +6465,7 @@
     "secondary_type":"Electric",
     "is_dual_type":true,
     "types":"Bug|Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Charmander",
@@ -6717,7 +6717,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Grass|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Chespin",
@@ -6759,7 +6759,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Chewtle",
@@ -6801,7 +6801,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Chi-Yu",
@@ -7179,7 +7179,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Clamperl",
@@ -7263,7 +7263,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Clawitzer",
@@ -7305,7 +7305,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Claydol",
@@ -7557,7 +7557,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Poison|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cloyster",
@@ -7641,7 +7641,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Rock|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cobalion",
@@ -7683,7 +7683,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Steel|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cofagrigus",
@@ -7725,7 +7725,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Combee",
@@ -7851,7 +7851,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Conkeldurr",
@@ -7893,7 +7893,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Copperajah",
@@ -7935,7 +7935,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Corphish",
@@ -8103,7 +8103,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Flying|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Corvisquire",
@@ -8145,7 +8145,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cosmoem",
@@ -8187,7 +8187,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cosmog",
@@ -8229,7 +8229,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cottonee",
@@ -8313,7 +8313,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Fighting|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Crabrawler",
@@ -8355,7 +8355,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cradily",
@@ -8439,7 +8439,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Flying|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cranidos",
@@ -8691,7 +8691,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Croconaw",
@@ -8775,7 +8775,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Bug|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cryogonal",
@@ -8817,7 +8817,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cubchoo",
@@ -8859,7 +8859,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cubone",
@@ -8943,7 +8943,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cursola",
@@ -9027,7 +9027,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Bug|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Cyclizar",
@@ -9405,7 +9405,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Grass|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Darumaka",
@@ -9447,7 +9447,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Darumaka",
@@ -9531,7 +9531,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Grass|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Decidueye",
@@ -9615,7 +9615,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Electric|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Deerling",
@@ -9657,7 +9657,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Normal|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Deino",
@@ -9699,7 +9699,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Dark|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Delcatty",
@@ -9825,7 +9825,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Fire|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Deoxys Normal Forme",
@@ -10119,7 +10119,7 @@
     "secondary_type":"Bug",
     "is_dual_type":true,
     "types":"Water|Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dhelmise",
@@ -10161,7 +10161,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Ghost|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dialga",
@@ -10287,7 +10287,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Rock|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Diancie",
@@ -10371,7 +10371,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Normal|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Diglett",
@@ -10665,7 +10665,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Grass|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dondozo",
@@ -10833,7 +10833,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Steel|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dracovish",
@@ -10959,7 +10959,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Poison|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dragapult",
@@ -11001,7 +11001,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Dragon|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dragonair",
@@ -11127,7 +11127,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Dragon|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Drampa",
@@ -11169,7 +11169,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Normal|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Drapion",
@@ -11295,7 +11295,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Water|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dreepy",
@@ -11337,7 +11337,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Dragon|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Drifblim",
@@ -11463,7 +11463,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Drizzile",
@@ -11505,7 +11505,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Drowzee",
@@ -11589,7 +11589,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dubwool",
@@ -11673,7 +11673,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Water|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dudunsparce Two-Segment Form",
@@ -11925,7 +11925,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Duraludon",
@@ -11967,7 +11967,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Steel|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Durant",
@@ -12009,7 +12009,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Bug|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dusclops",
@@ -12219,7 +12219,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Bug|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Eelektrik",
@@ -12261,7 +12261,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Eelektross",
@@ -12303,7 +12303,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Eevee",
@@ -12849,7 +12849,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Emboar",
@@ -13143,7 +13143,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Bug|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Espathra",
@@ -13269,7 +13269,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Eternatus",
@@ -13311,7 +13311,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Poison|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Eternatus Eternamax",
@@ -13395,7 +13395,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Ground|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Exeggcute",
@@ -13605,7 +13605,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Farfetch'd",
@@ -13857,7 +13857,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Feraligatr",
@@ -13941,7 +13941,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Grass|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ferrothorn",
@@ -13983,7 +13983,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Grass|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Fezandipiti",
@@ -14319,7 +14319,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Grass|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Flareon",
@@ -14403,7 +14403,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Fire|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Fletchling",
@@ -14445,7 +14445,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Flittle",
@@ -14571,7 +14571,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Floragato",
@@ -14613,7 +14613,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Florges",
@@ -14655,7 +14655,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Flutter Mane",
@@ -14781,7 +14781,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Foongus",
@@ -14823,7 +14823,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Forretress",
@@ -14907,7 +14907,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Frigibax",
@@ -14949,7 +14949,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Dragon|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Frillish",
@@ -14991,7 +14991,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Water|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Froakie",
@@ -15033,7 +15033,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Frogadier",
@@ -15075,7 +15075,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Froslass",
@@ -15159,7 +15159,7 @@
     "secondary_type":"Bug",
     "is_dual_type":true,
     "types":"Ice|Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Fuecoco",
@@ -15201,7 +15201,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Furfrou",
@@ -15243,7 +15243,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Furret",
@@ -15453,7 +15453,7 @@
     "secondary_type":"Electric",
     "is_dual_type":true,
     "types":"Bug|Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Garbodor",
@@ -15495,7 +15495,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Garchomp",
@@ -15831,7 +15831,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Bug|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gengar",
@@ -16041,7 +16041,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Steel|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gible",
@@ -16125,7 +16125,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gimmighoul Chest Form",
@@ -16251,7 +16251,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Normal|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Giratina Altered Forme",
@@ -16377,7 +16377,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Glalie",
@@ -16419,7 +16419,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Glalie",
@@ -16503,7 +16503,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Glastrier",
@@ -16545,7 +16545,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gligar",
@@ -16587,7 +16587,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Ground|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Glimmet",
@@ -16713,7 +16713,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Ground|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gloom",
@@ -16755,7 +16755,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gogoat",
@@ -16797,7 +16797,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Golbat",
@@ -16839,7 +16839,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Poison|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Goldeen",
@@ -16881,7 +16881,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Golduck",
@@ -16923,7 +16923,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Golem",
@@ -16965,7 +16965,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Rock|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Golem",
@@ -17049,7 +17049,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Ground|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Golisopod",
@@ -17091,7 +17091,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Bug|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Golurk",
@@ -17133,7 +17133,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Ground|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Goodra",
@@ -17175,7 +17175,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Goodra",
@@ -17259,7 +17259,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gorebyss",
@@ -17301,7 +17301,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gossifleur",
@@ -17385,7 +17385,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gothitelle",
@@ -17427,7 +17427,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gothorita",
@@ -17469,7 +17469,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gouging Fire",
@@ -17763,7 +17763,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Grapploct",
@@ -17847,7 +17847,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Rock|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Graveler",
@@ -17973,7 +17973,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Greedent",
@@ -18015,7 +18015,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Greninja",
@@ -18057,7 +18057,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Water|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ash-Greninja",
@@ -18141,7 +18141,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Grimer",
@@ -18225,7 +18225,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Dark|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Grookey",
@@ -18267,7 +18267,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Grotle",
@@ -18309,7 +18309,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Groudon",
@@ -18351,7 +18351,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Primal Groudon",
@@ -18435,7 +18435,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Growlithe",
@@ -18477,7 +18477,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Growlithe",
@@ -18561,7 +18561,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Grumpig",
@@ -18603,7 +18603,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gulpin",
@@ -18645,7 +18645,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gumshoos",
@@ -18687,7 +18687,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gurdurr",
@@ -18729,7 +18729,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Guzzlord",
@@ -18771,7 +18771,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Dark|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Gyarados",
@@ -18813,7 +18813,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Water|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Gyarados",
@@ -18897,7 +18897,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Dragon|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Happiny",
@@ -18939,7 +18939,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hariyama",
@@ -18981,7 +18981,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hatenna",
@@ -19023,7 +19023,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hatterene",
@@ -19065,7 +19065,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Psychic|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hattrem",
@@ -19107,7 +19107,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Haunter",
@@ -19149,7 +19149,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Ghost|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hawlucha",
@@ -19191,7 +19191,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Fighting|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Haxorus",
@@ -19233,7 +19233,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Heatmor",
@@ -19275,7 +19275,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Heatran",
@@ -19317,7 +19317,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Fire|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Heliolisk",
@@ -19359,7 +19359,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Electric|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Helioptile",
@@ -19401,7 +19401,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Electric|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Heracross",
@@ -19443,7 +19443,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Bug|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Heracross",
@@ -19527,7 +19527,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hippopotas",
@@ -19569,7 +19569,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hippowdon",
@@ -19611,7 +19611,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hitmonchan",
@@ -19653,7 +19653,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hitmonlee",
@@ -19695,7 +19695,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hitmontop",
@@ -19737,7 +19737,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ho-oh",
@@ -19779,7 +19779,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Fire|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Honchkrow",
@@ -19821,7 +19821,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Dark|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Honedge",
@@ -19863,7 +19863,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Steel|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hoopa Confined",
@@ -19989,7 +19989,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hoppip",
@@ -20031,7 +20031,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Grass|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Horsea",
@@ -20073,7 +20073,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Houndoom",
@@ -20115,7 +20115,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Dark|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Houndoom",
@@ -20199,7 +20199,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Dark|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Houndstone",
@@ -20241,7 +20241,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Huntail",
@@ -20283,7 +20283,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hydrapple",
@@ -20367,7 +20367,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Dark|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hypno",
@@ -20409,7 +20409,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Igglybuff",
@@ -20451,7 +20451,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Normal|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Illumise",
@@ -20493,7 +20493,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Impidimp",
@@ -20535,7 +20535,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Dark|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Incineroar",
@@ -20577,7 +20577,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Fire|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Indeedee Male",
@@ -20703,7 +20703,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Fire|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Inkay",
@@ -20745,7 +20745,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Dark|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Inteleon",
@@ -20787,7 +20787,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Iron Boulder",
@@ -21249,7 +21249,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jangmo-o",
@@ -21291,7 +21291,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jellicent",
@@ -21333,7 +21333,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Water|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jigglypuff",
@@ -21375,7 +21375,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Normal|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jirachi",
@@ -21417,7 +21417,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Steel|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jolteon",
@@ -21459,7 +21459,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Joltik",
@@ -21501,7 +21501,7 @@
     "secondary_type":"Electric",
     "is_dual_type":true,
     "types":"Bug|Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jumpluff",
@@ -21543,7 +21543,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Grass|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Jynx",
@@ -21585,7 +21585,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Ice|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kabuto",
@@ -21627,7 +21627,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kabutops",
@@ -21669,7 +21669,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kadabra",
@@ -21711,7 +21711,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kakuna",
@@ -21753,7 +21753,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Bug|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kangaskhan",
@@ -21795,7 +21795,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Kangaskhan",
@@ -21879,7 +21879,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kartana",
@@ -21921,7 +21921,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Grass|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kecleon",
@@ -21963,7 +21963,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Keldeo Ordinary Form",
@@ -22173,7 +22173,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Water|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kingler",
@@ -22215,7 +22215,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kirlia",
@@ -22257,7 +22257,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Psychic|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Klang",
@@ -22299,7 +22299,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Klawf",
@@ -22383,7 +22383,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Bug|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Klefki",
@@ -22425,7 +22425,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Steel|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Klink",
@@ -22467,7 +22467,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Klinklang",
@@ -22509,7 +22509,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Koffing",
@@ -22551,7 +22551,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Komala",
@@ -22593,7 +22593,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kommo-o",
@@ -22635,7 +22635,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Dragon|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Koraidon",
@@ -22719,7 +22719,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kricketot",
@@ -22761,7 +22761,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kricketune",
@@ -22803,7 +22803,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Krokorok",
@@ -22845,7 +22845,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Ground|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Krookodile",
@@ -22887,7 +22887,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Ground|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kubfu",
@@ -22929,7 +22929,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Kyogre",
@@ -22971,7 +22971,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Primal Kyogre",
@@ -23055,7 +23055,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Dragon|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"White Kyurem",
@@ -23181,7 +23181,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Steel|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lampent",
@@ -23223,7 +23223,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Ghost|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Landorus Incarnate Forme",
@@ -23349,7 +23349,7 @@
     "secondary_type":"Electric",
     "is_dual_type":true,
     "types":"Water|Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lapras",
@@ -23391,7 +23391,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Water|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Larvesta",
@@ -23433,7 +23433,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Bug|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Larvitar",
@@ -23475,7 +23475,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Rock|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Latias",
@@ -23517,7 +23517,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Dragon|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Latias",
@@ -23601,7 +23601,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Dragon|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Latios",
@@ -23685,7 +23685,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Leavanny",
@@ -23727,7 +23727,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Bug|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lechonk",
@@ -23769,7 +23769,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ledian",
@@ -23811,7 +23811,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ledyba",
@@ -23853,7 +23853,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lickilicky",
@@ -23895,7 +23895,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lickitung",
@@ -23937,7 +23937,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Liepard",
@@ -23979,7 +23979,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lileep",
@@ -24021,7 +24021,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Rock|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lilligant",
@@ -24063,7 +24063,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Lilligant",
@@ -24147,7 +24147,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Linoone",
@@ -24189,7 +24189,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Linoone",
@@ -24273,7 +24273,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Fire|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Litten",
@@ -24315,7 +24315,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Litwick",
@@ -24357,7 +24357,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Ghost|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lokix",
@@ -24399,7 +24399,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Bug|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lombre",
@@ -24441,7 +24441,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Water|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lopunny",
@@ -24483,7 +24483,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Lopunny",
@@ -24567,7 +24567,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Water|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Loudred",
@@ -24609,7 +24609,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lucario",
@@ -24651,7 +24651,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Fighting|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Lucario",
@@ -24735,7 +24735,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Water|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lugia",
@@ -24777,7 +24777,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Psychic|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lumineon",
@@ -24819,7 +24819,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lunala",
@@ -24861,7 +24861,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Psychic|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lunatone",
@@ -24903,7 +24903,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Rock|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lurantis",
@@ -24945,7 +24945,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Luvdisc",
@@ -24987,7 +24987,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Luxio",
@@ -25029,7 +25029,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Luxray",
@@ -25071,7 +25071,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Lycanroc Midday Form",
@@ -25281,7 +25281,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Machoke",
@@ -25323,7 +25323,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Machop",
@@ -25365,7 +25365,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magby",
@@ -25407,7 +25407,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magcargo",
@@ -25449,7 +25449,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Fire|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magearna",
@@ -25491,7 +25491,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Steel|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magikarp",
@@ -25533,7 +25533,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magmar",
@@ -25575,7 +25575,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magmortar",
@@ -25617,7 +25617,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magnemite",
@@ -25659,7 +25659,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Electric|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magneton",
@@ -25701,7 +25701,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Electric|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Magnezone",
@@ -25743,7 +25743,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Electric|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Makuhita",
@@ -25785,7 +25785,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Malamar",
@@ -25827,7 +25827,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Dark|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mamoswine",
@@ -25869,7 +25869,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Ice|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Manaphy",
@@ -25911,7 +25911,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mandibuzz",
@@ -25953,7 +25953,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Dark|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Manectric",
@@ -25995,7 +25995,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Manectric",
@@ -26079,7 +26079,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mantine",
@@ -26121,7 +26121,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Water|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mantyke",
@@ -26163,7 +26163,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Water|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Maractus",
@@ -26205,7 +26205,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mareanie",
@@ -26247,7 +26247,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Poison|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mareep",
@@ -26289,7 +26289,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Marill",
@@ -26331,7 +26331,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Water|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Marowak",
@@ -26373,7 +26373,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Marowak",
@@ -26457,7 +26457,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Fighting|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Marshtomp",
@@ -26499,7 +26499,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Water|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Maschiff",
@@ -26583,7 +26583,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Maushold Family of Four",
@@ -26709,7 +26709,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Steel|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Mawile",
@@ -26793,7 +26793,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Fighting|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Medicham",
@@ -26877,7 +26877,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Fighting|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Meganium",
@@ -26919,7 +26919,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Melmetal",
@@ -26961,7 +26961,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Meloetta Aria Forme",
@@ -27087,7 +27087,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Meowscarada",
@@ -27129,7 +27129,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Grass|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Meowstic Male",
@@ -27255,7 +27255,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Meowth",
@@ -27381,7 +27381,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Metagross",
@@ -27423,7 +27423,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Steel|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Metagross",
@@ -27507,7 +27507,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Steel|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Metapod",
@@ -27549,7 +27549,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mew",
@@ -27591,7 +27591,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mewtwo",
@@ -27633,7 +27633,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Mewtwo X",
@@ -27759,7 +27759,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mienshao",
@@ -27801,7 +27801,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mightyena",
@@ -27843,7 +27843,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Milcery",
@@ -27885,7 +27885,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Milotic",
@@ -27927,7 +27927,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Miltank",
@@ -27969,7 +27969,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mime Jr.",
@@ -28053,7 +28053,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Ghost|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Minccino",
@@ -28095,7 +28095,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Minior Meteor Form",
@@ -28221,7 +28221,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Miraidon",
@@ -28305,7 +28305,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mismagius",
@@ -28347,7 +28347,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Moltres",
@@ -28389,7 +28389,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Fire|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Moltres",
@@ -28473,7 +28473,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Fire|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Morelull",
@@ -28515,7 +28515,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Grass|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Morgrem",
@@ -28557,7 +28557,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Dark|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Morpeko Full Belly Mode",
@@ -28683,7 +28683,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mr. Mime",
@@ -28851,7 +28851,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mudkip",
@@ -28893,7 +28893,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mudsdale",
@@ -28935,7 +28935,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Muk",
@@ -28977,7 +28977,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Muk",
@@ -29061,7 +29061,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Munkidori",
@@ -29145,7 +29145,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Murkrow",
@@ -29187,7 +29187,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Dark|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Musharna",
@@ -29229,7 +29229,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nacli",
@@ -29355,7 +29355,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Poison|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Natu",
@@ -29397,7 +29397,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Psychic|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Necrozma",
@@ -29439,7 +29439,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Dusk Mane Necrozma",
@@ -29649,7 +29649,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Poison|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nidoqueen",
@@ -29691,7 +29691,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Poison|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nidoran♀ (female) Nidoran♀",
@@ -29817,7 +29817,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nidorino",
@@ -29859,7 +29859,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nihilego",
@@ -29901,7 +29901,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Rock|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nincada",
@@ -29943,7 +29943,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Bug|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ninetales",
@@ -29985,7 +29985,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Ninetales",
@@ -30069,7 +30069,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Noctowl",
@@ -30111,7 +30111,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Noibat",
@@ -30153,7 +30153,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Flying|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Noivern",
@@ -30195,7 +30195,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Flying|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nosepass",
@@ -30237,7 +30237,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Numel",
@@ -30279,7 +30279,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Fire|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nuzleaf",
@@ -30321,7 +30321,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Grass|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Nymble",
@@ -30363,7 +30363,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Obstagoon",
@@ -30447,7 +30447,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Oddish",
@@ -30489,7 +30489,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ogerpon Teal Mask",
@@ -30825,7 +30825,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Omastar",
@@ -30867,7 +30867,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Rock|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Onix",
@@ -30909,7 +30909,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Rock|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Oranguru",
@@ -30951,7 +30951,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Normal|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Orbeetle",
@@ -31245,7 +31245,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Overqwil",
@@ -31287,7 +31287,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Dark|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pachirisu",
@@ -31329,7 +31329,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Palafin Zero Form",
@@ -31455,7 +31455,7 @@
     "secondary_type":"Dragon",
     "is_dual_type":true,
     "types":"Water|Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Palkia Origin Forme",
@@ -31539,7 +31539,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Ghost|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Palpitoad",
@@ -31581,7 +31581,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Water|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pancham",
@@ -31623,7 +31623,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pangoro",
@@ -31665,7 +31665,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Fighting|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Panpour",
@@ -31707,7 +31707,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pansage",
@@ -31749,7 +31749,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pansear",
@@ -31791,7 +31791,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Paras",
@@ -31833,7 +31833,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Bug|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Parasect",
@@ -31875,7 +31875,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Bug|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Passimian",
@@ -31917,7 +31917,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Patrat",
@@ -31959,7 +31959,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pawmi",
@@ -32001,7 +32001,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pawmo",
@@ -32043,7 +32043,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Electric|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pawmot",
@@ -32085,7 +32085,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Electric|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pawniard",
@@ -32127,7 +32127,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Dark|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pecharunt",
@@ -32211,7 +32211,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Water|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Perrserker",
@@ -32253,7 +32253,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Persian",
@@ -32295,7 +32295,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Persian",
@@ -32379,7 +32379,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Phanpy",
@@ -32421,7 +32421,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Phantump",
@@ -32463,7 +32463,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Ghost|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pheromosa",
@@ -32505,7 +32505,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Bug|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Phione",
@@ -32547,7 +32547,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pichu",
@@ -32589,7 +32589,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pidgeot",
@@ -32631,7 +32631,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Pidgeot",
@@ -32715,7 +32715,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pidgey",
@@ -32757,7 +32757,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pidove",
@@ -32799,7 +32799,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pignite",
@@ -32841,7 +32841,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Fire|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pikachu",
@@ -32883,7 +32883,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Partner Pikachu",
@@ -32967,7 +32967,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Piloswine",
@@ -33009,7 +33009,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Ice|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pincurchin",
@@ -33051,7 +33051,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pineco",
@@ -33093,7 +33093,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pinsir",
@@ -33135,7 +33135,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Pinsir",
@@ -33219,7 +33219,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Plusle",
@@ -33261,7 +33261,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Poipole",
@@ -33303,7 +33303,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Politoed",
@@ -33345,7 +33345,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Poliwag",
@@ -33387,7 +33387,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Poliwhirl",
@@ -33429,7 +33429,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Poliwrath",
@@ -33471,7 +33471,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Water|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Poltchageist",
@@ -33555,7 +33555,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ponyta",
@@ -33597,7 +33597,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Ponyta",
@@ -33681,7 +33681,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Popplio",
@@ -33723,7 +33723,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Porygon",
@@ -33765,7 +33765,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Porygon-Z",
@@ -33807,7 +33807,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Porygon2",
@@ -33849,7 +33849,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Primarina",
@@ -33891,7 +33891,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Water|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Primeape",
@@ -33933,7 +33933,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Prinplup",
@@ -33975,7 +33975,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Probopass",
@@ -34017,7 +34017,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Rock|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Psyduck",
@@ -34059,7 +34059,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pumpkaboo Average Size",
@@ -34269,7 +34269,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Rock|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Purrloin",
@@ -34311,7 +34311,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Purugly",
@@ -34353,7 +34353,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pyroar",
@@ -34395,7 +34395,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Fire|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Pyukumuku",
@@ -34437,7 +34437,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quagsire",
@@ -34479,7 +34479,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Water|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quaquaval",
@@ -34521,7 +34521,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Water|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quaxly",
@@ -34563,7 +34563,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quaxwell",
@@ -34605,7 +34605,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quilava",
@@ -34647,7 +34647,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Quilladin",
@@ -34689,7 +34689,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Qwilfish",
@@ -34731,7 +34731,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Water|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Qwilfish",
@@ -34815,7 +34815,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rabsca",
@@ -34941,7 +34941,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Raichu",
@@ -35025,7 +35025,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ralts",
@@ -35067,7 +35067,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Psychic|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rampardos",
@@ -35109,7 +35109,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rapidash",
@@ -35151,7 +35151,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Rapidash",
@@ -35235,7 +35235,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Raticate",
@@ -35319,7 +35319,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Rattata",
@@ -35403,7 +35403,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Dragon|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Rayquaza",
@@ -35487,7 +35487,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Regidrago",
@@ -35529,7 +35529,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Regieleki",
@@ -35571,7 +35571,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Regigigas",
@@ -35613,7 +35613,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Regirock",
@@ -35655,7 +35655,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Registeel",
@@ -35697,7 +35697,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Relicanth",
@@ -35739,7 +35739,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Water|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rellor",
@@ -35823,7 +35823,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Reshiram",
@@ -35865,7 +35865,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Dragon|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Reuniclus",
@@ -35907,7 +35907,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Revavroom",
@@ -35991,7 +35991,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Ground|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rhyhorn",
@@ -36033,7 +36033,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Ground|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rhyperior",
@@ -36075,7 +36075,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Ground|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Ribombee",
@@ -36117,7 +36117,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Bug|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rillaboom",
@@ -36159,7 +36159,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Riolu",
@@ -36201,7 +36201,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Roaring Moon",
@@ -36285,7 +36285,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Own Tempo Rockruff",
@@ -36369,7 +36369,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rolycoly",
@@ -36411,7 +36411,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rookidee",
@@ -36453,7 +36453,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Roselia",
@@ -36495,7 +36495,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Roserade",
@@ -36537,7 +36537,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Grass|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rotom",
@@ -36579,7 +36579,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Electric|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Heat Rotom",
@@ -36831,7 +36831,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Grass|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Rufflet",
@@ -36873,7 +36873,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Runerigus",
@@ -36957,7 +36957,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Dark|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Sableye",
@@ -37041,7 +37041,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Dragon|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Salamence",
@@ -37125,7 +37125,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Poison|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Salazzle",
@@ -37167,7 +37167,7 @@
     "secondary_type":"Fire",
     "is_dual_type":true,
     "types":"Poison|Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Samurott",
@@ -37209,7 +37209,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Samurott",
@@ -37293,7 +37293,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sandile",
@@ -37335,7 +37335,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Ground|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sandshrew",
@@ -37377,7 +37377,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Sandshrew",
@@ -37461,7 +37461,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Alolan Sandslash",
@@ -37587,7 +37587,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Ghost|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sawk",
@@ -37629,7 +37629,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sawsbuck",
@@ -37671,7 +37671,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Normal|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Scatterbug",
@@ -37713,7 +37713,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sceptile",
@@ -37755,7 +37755,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Sceptile",
@@ -37839,7 +37839,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Bug|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Scizor",
@@ -37923,7 +37923,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Bug|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Scorbunny",
@@ -37965,7 +37965,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Scovillain",
@@ -38049,7 +38049,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Dark|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Scraggy",
@@ -38091,7 +38091,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Dark|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Scream Tail",
@@ -38175,7 +38175,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Bug|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seadra",
@@ -38217,7 +38217,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seaking",
@@ -38259,7 +38259,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sealeo",
@@ -38301,7 +38301,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Ice|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seedot",
@@ -38343,7 +38343,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seel",
@@ -38385,7 +38385,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seismitoad",
@@ -38427,7 +38427,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Water|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sentret",
@@ -38469,7 +38469,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Serperior",
@@ -38511,7 +38511,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Servine",
@@ -38553,7 +38553,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Seviper",
@@ -38595,7 +38595,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sewaddle",
@@ -38637,7 +38637,7 @@
     "secondary_type":"Grass",
     "is_dual_type":true,
     "types":"Bug|Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sharpedo",
@@ -38679,7 +38679,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Water|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Sharpedo",
@@ -38847,7 +38847,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Bug|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shelgon",
@@ -38889,7 +38889,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shellder",
@@ -38931,7 +38931,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shellos",
@@ -38973,7 +38973,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shelmet",
@@ -39015,7 +39015,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shieldon",
@@ -39057,7 +39057,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Rock|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shiftry",
@@ -39099,7 +39099,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Grass|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shiinotic",
@@ -39141,7 +39141,7 @@
     "secondary_type":"Fairy",
     "is_dual_type":true,
     "types":"Grass|Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shinx",
@@ -39183,7 +39183,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shroodle",
@@ -39267,7 +39267,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shuckle",
@@ -39309,7 +39309,7 @@
     "secondary_type":"Rock",
     "is_dual_type":true,
     "types":"Bug|Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Shuppet",
@@ -39351,7 +39351,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sigilyph",
@@ -39393,7 +39393,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Psychic|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Silcoon",
@@ -39435,7 +39435,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Silicobra",
@@ -39477,7 +39477,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Silvally",
@@ -39519,7 +39519,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Simipour",
@@ -39561,7 +39561,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Simisage",
@@ -39603,7 +39603,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Simisear",
@@ -39645,7 +39645,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sinistcha",
@@ -39729,7 +39729,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sirfetch'd",
@@ -39855,7 +39855,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Steel|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skeledirge",
@@ -39897,7 +39897,7 @@
     "secondary_type":"Ghost",
     "is_dual_type":true,
     "types":"Fire|Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skiddo",
@@ -39939,7 +39939,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skiploom",
@@ -39981,7 +39981,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Grass|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skitty",
@@ -40023,7 +40023,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skorupi",
@@ -40065,7 +40065,7 @@
     "secondary_type":"Bug",
     "is_dual_type":true,
     "types":"Poison|Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skrelp",
@@ -40107,7 +40107,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Poison|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skuntank",
@@ -40149,7 +40149,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Poison|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Skwovet",
@@ -40191,7 +40191,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Slaking",
@@ -40233,7 +40233,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Slakoth",
@@ -40275,7 +40275,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sliggoo",
@@ -40317,7 +40317,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Dragon",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Sliggoo",
@@ -40443,7 +40443,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Water|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Slowbro",
@@ -40569,7 +40569,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Water|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Slowking",
@@ -40653,7 +40653,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Water|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Slowpoke",
@@ -40737,7 +40737,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fire",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Slurpuff",
@@ -40779,7 +40779,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Smeargle",
@@ -40821,7 +40821,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Smoliv",
@@ -40863,7 +40863,7 @@
     "secondary_type":"Normal",
     "is_dual_type":true,
     "types":"Grass|Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Smoochum",
@@ -40905,7 +40905,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Ice|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sneasel",
@@ -40947,7 +40947,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Dark|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Hisuian Sneasel",
@@ -41031,7 +41031,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Fighting|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snivy",
@@ -41073,7 +41073,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snom",
@@ -41115,7 +41115,7 @@
     "secondary_type":"Bug",
     "is_dual_type":true,
     "types":"Ice|Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snorlax",
@@ -41157,7 +41157,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snorunt",
@@ -41199,7 +41199,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snover",
@@ -41241,7 +41241,7 @@
     "secondary_type":"Ice",
     "is_dual_type":true,
     "types":"Grass|Ice",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Snubbull",
@@ -41283,7 +41283,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sobble",
@@ -41325,7 +41325,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Solgaleo",
@@ -41367,7 +41367,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Psychic|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Solosis",
@@ -41409,7 +41409,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Solrock",
@@ -41451,7 +41451,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Rock|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spearow",
@@ -41493,7 +41493,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spectrier",
@@ -41535,7 +41535,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Ghost",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spewpa",
@@ -41577,7 +41577,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Bug",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spheal",
@@ -41619,7 +41619,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Ice|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spidops",
@@ -41703,7 +41703,7 @@
     "secondary_type":"Poison",
     "is_dual_type":true,
     "types":"Bug|Poison",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spinda",
@@ -41745,7 +41745,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spiritomb",
@@ -41787,7 +41787,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Ghost|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spoink",
@@ -41829,7 +41829,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sprigatito",
@@ -41871,7 +41871,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Spritzee",
@@ -41913,7 +41913,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Fairy",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Squawkabilly Green Plumage",
@@ -42123,7 +42123,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stakataka",
@@ -42165,7 +42165,7 @@
     "secondary_type":"Steel",
     "is_dual_type":true,
     "types":"Rock|Steel",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stantler",
@@ -42207,7 +42207,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Staraptor",
@@ -42249,7 +42249,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Staravia",
@@ -42291,7 +42291,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Starly",
@@ -42333,7 +42333,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Starmie",
@@ -42375,7 +42375,7 @@
     "secondary_type":"Psychic",
     "is_dual_type":true,
     "types":"Water|Psychic",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Staryu",
@@ -42417,7 +42417,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Steelix",
@@ -42459,7 +42459,7 @@
     "secondary_type":"Ground",
     "is_dual_type":true,
     "types":"Steel|Ground",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Mega Steelix",
@@ -42543,7 +42543,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stonjourner",
@@ -42585,7 +42585,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stoutland",
@@ -42627,7 +42627,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Normal",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stufful",
@@ -42669,7 +42669,7 @@
     "secondary_type":"Fighting",
     "is_dual_type":true,
     "types":"Normal|Fighting",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Stunfisk",
@@ -42711,7 +42711,7 @@
     "secondary_type":"Electric",
     "is_dual_type":true,
     "types":"Ground|Electric",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Galarian Stunfisk",
@@ -42795,7 +42795,7 @@
     "secondary_type":"Dark",
     "is_dual_type":true,
     "types":"Poison|Dark",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sudowoodo",
@@ -42837,7 +42837,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Rock",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Suicune",
@@ -42879,7 +42879,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sunflora",
@@ -42921,7 +42921,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Sunkern",
@@ -42963,7 +42963,7 @@
     "secondary_type":null,
     "is_dual_type":false,
     "types":"Grass",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Surskit",
@@ -43005,7 +43005,7 @@
     "secondary_type":"Water",
     "is_dual_type":true,
     "types":"Bug|Water",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Swablu",
@@ -43047,7 +43047,7 @@
     "secondary_type":"Flying",
     "is_dual_type":true,
     "types":"Normal|Flying",
-    "in_species_scope":false
+    "in_species_scope":true
   },
   {
     "pokemon":"Swadloon",
