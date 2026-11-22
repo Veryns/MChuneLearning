@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pokédex AI</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="dex-fullscreen">
+
+    <!-- ================= KIRI: LAYAR UTAMA ================= -->
+    <section class="dex-left">
+      <header class="top-bar">
+        <div class="big-lens">
+          <div class="big-lens-inner">
+            <span class="big-lens-glare"></span>
+          </div>
+        </div>
+        <div class="top-leds">
+          <span class="led r"></span>
+          <span class="led y"></span>
+          <span class="led g"></span>
+        </div>
+        <div class="dex-brand">
+          <span>POKÉDEX AI</span>
+          <small>CNN CLASSIFIER · UAS ML 2026</small>
+        </div>
+      </header>
+
+      <div class="top-step-line" aria-hidden="true"></div>
+
+      <div class="main-white-bezel">
+        <div class="white-top-dots" aria-hidden="true">
+          <span></span>
+          <span></span>
+        </div>
+
+        <label id="dropzone" class="white-screen dropzone" for="file" tabindex="0">
+          <input id="file" type="file" accept="image/*" hidden>
+          <img id="preview" alt="Pratinjau gambar" hidden>
+
+          <div id="drop-hint" class="drop-hint">
+            <div class="upload-badge">⬆</div>
+            <strong>Seret atau Klik untuk Pilih Gambar Pokémon</strong>
+            <span>Bisa juga tempel langsung dengan <b>Ctrl + V</b></span>
+            <small>PNG, JPG, GIF, WEBP · Dilatih pada sprite/ilustrasi Pokémon</small>
+          </div>
+        </label>
+
+        <div class="white-bottom-bar">
+          <div class="bottom-left-ctrl">
+            <span id="dec-dot" class="red-corner-dot" aria-hidden="true"></span>
+            <button id="reset" class="reset-pill" type="button" hidden>✕ Hapus Gambar</button>
+          </div>
+          <div class="bottom-speaker" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= KANAN: KONTROL & HASIL ================= -->
+    <aside class="dex-right">
+
+      <!-- Modul Merah Atas -->
+      <section class="red-module-box">
+        <div class="red-module-top-dots" aria-hidden="true">
+          <span></span>
+          <span></span>
+        </div>
+
+        <div class="red-screen">
+          <div id="status" class="status loading" role="status">
+            <span class="dot"></span>
+            <span id="status-text">Memuat model…</span>
+          </div>
+
+          <div class="red-actions">
+            <label class="topk-control" for="topk">
+              <span>TOP-K</span>
+              <select id="topk">
+                <option>1</option>
+                <option>2</option>
+                <option selected>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <div class="red-module-bottom" aria-hidden="true">
+          <span class="mini-red-btn"></span>
+          <div class="mini-bars">
+            <span class="bar-g"></span>
+            <span class="bar-o"></span>
+          </div>
+          <div class="mini-grill">
+            <span></span><span></span><span></span>
+          </div>
+          <span class="screw">⊗</span>
+        </div>
+      </section>
+
+      <!-- Modul Abu-abu Tengah (Hasil Klasifikasi) -->
+      <section class="grey-module-box" aria-live="polite">
+        <div class="grey-header">
+          <span class="hdr-blue-dot" aria-hidden="true"></span>
+          <div class="hdr-mini-leds" aria-hidden="true">
+            <span></span><span></span><span></span>
+          </div>
+          <span class="hdr-title">POKECHAT · DATA</span>
+        </div>
+
+        <div class="grey-screen">
+          <div id="empty" class="empty">
+            <div class="empty-ball"></div>
+            <p>Belum ada gambar. Unggah atau paste Pokémon di layar kiri.</p>
+          </div>
+
+          <div id="loading" class="loading-box" hidden>
+            <div class="spinner"></div>
+            <p>Menganalisis gambar…</p>
+          </div>
+
+          <div id="error" class="alert error" hidden></div>
+
+          <div id="result" hidden>
+            <div class="hero">
+              <div class="hero-info">
+                <div id="name" class="pk-name">—</div>
+                <div id="badges" class="badges"></div>
+                <div id="conf-line" class="muted"></div>
+              </div>
+              <figure class="seen">
+                <img id="processed" alt="Gambar setelah preprocessing">
+                <figcaption>Input Model</figcaption>
+              </figure>
+            </div>
+
+            <div id="warn" class="alert warn" hidden></div>
+
+            <div class="cols">
+              <div>
+                <h3>Tipe</h3>
+                <div id="type-bars" class="bars"></div>
+              </div>
+              <div>
+                <h3>Spesies</h3>
+                <div id="species-bars" class="bars"></div>
+              </div>
+            </div>
+
+            <h3>Info Pokédex</h3>
+            <dl id="info" class="info"></dl>
+          </div>
+        </div>
+      </section>
+
+      <!-- Keypad Bawah: 6 Tombol Pokéball Biru -->
+      <section class="blue-keypad" aria-hidden="true">
+        <div class="blue-key"><span class="ball-mark"></span></div>
+        <div class="blue-key"><span class="ball-mark"></span></div>
+        <div class="blue-key"><span class="ball-mark"></span></div>
+        <div class="blue-key"><span class="ball-mark"></span></div>
+        <div class="blue-key"><span class="ball-mark"></span></div>
+        <div class="blue-key"><span class="ball-mark"></span></div>
+      </section>
+
+    </aside>
+
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>
