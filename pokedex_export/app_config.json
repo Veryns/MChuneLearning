@@ -12,17 +12,17 @@
   "species_classes": "class_names_species.json",
   "info_json": "pokemon_info.json",
   "input_note": "Model menerima gambar RGB float32 0-255 berukuran (img_size, img_size, 3); preprocess_input sudah di dalam model.",
-  "species_scope": "Gen 1-3, top-150, 150 kelas",
+  "species_scope": "Gen 1-9, top-semua, 746 kelas",
   "best_models": {
     "type": {
-      "model_name": "type_mobilenetv2",
-      "test_acc": 0.2787577639751553,
-      "test_f1_macro": 0.2154105694308108
+      "model_name": "type_baseline",
+      "test_acc": 0.23527950310559007,
+      "test_f1_macro": 0.18161990551421642
     },
     "species": {
       "model_name": "species_mobilenetv2",
-      "test_acc": 0.9627391742195368,
-      "test_f1_macro": 0.9647986821686512
+      "test_acc": 0.9387186629526463,
+      "test_f1_macro": 0.9040137564911592
     }
   },
   "fast_mode": false

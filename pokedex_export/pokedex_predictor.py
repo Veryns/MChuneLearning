@@ -22,14 +22,12 @@ _STATE = {}
 
 @keras.utils.register_keras_serializable(package="pokedex")
 class ResNetPreprocess(layers.Layer):
-    """Hanya dipakai jika model terbaik berbasis ResNet50."""
     def call(self, x):
         x = x[..., ::-1]
         return x - tf.constant([103.939, 116.779, 123.68], dtype=x.dtype)
 
 
 def standardize_image(img, size, bg=(255, 255, 255)):
-    """File/PIL -> PIL RGB size x size (frame pertama GIF, alpha di atas bg, letterbox). HARUS sama dengan notebook."""
     bg = tuple(bg)
     if isinstance(img, (str, os.PathLike)):
         img = Image.open(img)
@@ -51,7 +49,6 @@ def standardize_image(img, size, bg=(255, 255, 255)):
 
 
 def _load():
-    """Muat model & metadata sekali saja (cache di _STATE)."""
     if _STATE:
         return _STATE
     p = lambda f: os.path.join(EXPORT_DIR, f)
@@ -78,17 +75,10 @@ def _topk(probs, k):
 
 
 def predict_pokemon(image_path_or_pil, top_k=3):
-    """Prediksi tipe & spesies dari satu gambar.
-
-    Return dict:
-      types   : [{"label", "confidence"}, ...]                       (top-k tipe)
-      species : [{"key", "name", "confidence", "info"}, ...]          (top-k spesies + info CSV)
-      info    : info lengkap spesies top-1 (dict) atau None
-    """
     st = _load()
     size = st["cfg"]["img_size"]
     pil = standardize_image(image_path_or_pil, size, st["cfg"]["bg_color"])
-    x = np.asarray(pil, dtype="float32")[None]          # piksel mentah 0-255; preprocess_input ada di dalam model
+    x = np.asarray(pil, dtype="float32")[None]
     p_type = st["type_model"](x, training=False).numpy()[0]
     p_sp = st["species_model"](x, training=False).numpy()[0]
     k_t, k_s = min(top_k, len(p_type)), min(top_k, len(p_sp))
