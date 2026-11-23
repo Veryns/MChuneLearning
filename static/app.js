@@ -12,7 +12,13 @@ const CONF_THRESHOLD = 0.5;
 const SKIP_INFO = new Set(["name_key", "types_list", "in_species_scope"]);
 
 const $ = (sel) => document.querySelector(sel);
-const state = { ready: false, busy: false, dataUrl: null };
+const HISTORY_SIZE = 6;
+const TOP_K = 5;
+const state = {
+  ready: false, busy: false, pending: false, dataUrl: null,
+  history: Array(HISTORY_SIZE).fill(null), // {dataUrl, name, result}
+  active: null, next: 0,
+};
 
 function el(tag, cls, text) {
   const n = document.createElement(tag);
@@ -28,9 +34,9 @@ function show(id, visible) {
 
 /* ---------------- status model ---------------- */
 function setStatus(s) {
-  const box = $("#status");
-  box.className = "status " + s.state;
-  $("#status-text").textContent =
+  const lens = $("#lens");
+  lens.classList.toggle("ready", s.state === "ready"); // biru = model siap, merah = belum
+  lens.title =
     s.state === "ready" ? "Model siap" + (s.scope ? " · " + s.scope : "")
     : s.state === "loading" ? "Memuat model…"
     : s.message;
@@ -50,7 +56,16 @@ async function pollStatus() {
   }
 }
 
-/* ---------------- unggah gambar ---------------- */
+/* unggah gambar */
+function showImage(url) {
+  state.dataUrl = url;
+  $("#preview").src = url;
+  show("#preview", true);
+  show("#drop-hint", false);
+  show("#reset", true);
+  show("#dec-dot", false);
+}
+
 function handleFile(file) {
   if (!file || !file.type.startsWith("image/")) {
     showError("File yang dipilih bukan gambar.");
@@ -58,12 +73,12 @@ function handleFile(file) {
   }
   const reader = new FileReader();
   reader.onload = () => {
-    state.dataUrl = reader.result;
-    $("#preview").src = state.dataUrl;
-    show("#preview", true);
-    show("#drop-hint", false);
-    show("#reset", true);
-    show("#dec-dot", false);
+    const slot = state.next;
+    state.next = (state.next + 1) % HISTORY_SIZE;
+    state.history[slot] = { dataUrl: reader.result, name: file.name || "tempel", result: null };
+    state.active = slot;
+    showImage(reader.result);
+    renderHistory();
     predict();
   };
   reader.readAsDataURL(file);
@@ -71,6 +86,7 @@ function handleFile(file) {
 
 function resetAll() {
   state.dataUrl = null;
+  state.active = null;
   $("#file").value = "";
   show("#preview", false);
   show("#drop-hint", true);
@@ -80,9 +96,44 @@ function resetAll() {
   show("#error", false);
   show("#loading", false);
   show("#empty", true);
+  renderHistory();
 }
 
-/* ---------------- prediksi ---------------- */
+/* riwayat */
+function renderHistory() {
+  document.querySelectorAll("#history .blue-key").forEach((k, i) => {
+    const e = state.history[i];
+    k.classList.toggle("filled", !!e);
+    k.classList.toggle("active", !!e && state.active === i);
+    k.replaceChildren();
+    if (e) {
+      const img = document.createElement("img");
+      img.src = e.dataUrl;
+      img.alt = e.name;
+      k.title = e.name;
+      k.append(img);
+    } else {
+      k.removeAttribute("title");
+      k.append(el("span", "ball-mark"));
+    }
+  });
+}
+
+function selectSlot(i) {
+  const e = state.history[i];
+  if (!e) return;
+  state.active = i;
+  showImage(e.dataUrl);
+  renderHistory();
+  if (e.result) {
+    show("#loading", false); show("#error", false); show("#empty", false);
+    render(e.result);
+  } else {
+    predict();
+  }
+}
+
+/* prediksi */
 function showError(msg) {
   show("#loading", false);
   show("#empty", false);
@@ -99,27 +150,31 @@ async function predict() {
     $("#loading p").textContent = "Menunggu model selesai dimuat…";
     return;
   }
-  if (state.busy) return;
+  if (state.busy) { state.pending = true; return; }
   state.busy = true;
   show("#empty", false); show("#error", false); show("#result", false); show("#loading", true);
   $("#loading p").textContent = "Menganalisis gambar…";
+  const url = state.dataUrl;
+  const entry = state.history[state.active];
   try {
     const r = await fetch("/api/predict", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ image: state.dataUrl, top_k: Number($("#topk").value) }),
+      body: JSON.stringify({ image: state.dataUrl, top_k: TOP_K }),
     });
     const data = await r.json();
     if (!r.ok) throw new Error(data.error || "Terjadi kesalahan.");
-    render(data);
+    if (entry) entry.result = data;
+    if (state.dataUrl === url) render(data);
   } catch (e) {
-    showError(e.message);
+    if (state.dataUrl === url) showError(e.message);
   } finally {
     state.busy = false;
+    if (state.pending) { state.pending = false; predict(); }
   }
 }
 
-/* ---------------- tampilkan hasil ---------------- */
+/* tampilkan hasil */
 function bars(container, items) {
   container.replaceChildren();
   const fills = [];
@@ -202,7 +257,7 @@ function render(d) {
   res.classList.add("fade-in");
 }
 
-/* ---------------- event ---------------- */
+/* event */
 const dz = $("#dropzone");
 $("#file").addEventListener("change", (e) => handleFile(e.target.files[0]));
 dz.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); $("#file").click(); } });
@@ -213,7 +268,10 @@ document.addEventListener("paste", (e) => {
   const item = [...(e.clipboardData?.items || [])].find((i) => i.type.startsWith("image/"));
   if (item) handleFile(item.getAsFile());
 });
-$("#topk").addEventListener("change", predict);
+$("#history").addEventListener("click", (e) => {
+  const k = e.target.closest(".blue-key");
+  if (k) selectSlot(Number(k.dataset.i));
+});
 $("#reset").addEventListener("click", (e) => { e.preventDefault(); resetAll(); });
 
 pollStatus();

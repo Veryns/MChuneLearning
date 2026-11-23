@@ -9,10 +9,10 @@
 <body>
   <main class="dex-fullscreen">
 
-    <!-- ================= KIRI: LAYAR UTAMA ================= -->
+    <!-- KIRI: LAYAR UTAMA -->
     <section class="dex-left">
       <header class="top-bar">
-        <div class="big-lens">
+        <div id="lens" class="big-lens" title="Memuat model…">
           <div class="big-lens-inner">
             <span class="big-lens-glare"></span>
           </div>
@@ -24,7 +24,6 @@
         </div>
         <div class="dex-brand">
           <span>POKÉDEX AI</span>
-          <small>CNN CLASSIFIER · UAS ML 2026</small>
         </div>
       </header>
 
@@ -48,6 +47,16 @@
           </div>
         </label>
 
+        <!-- Riwayat: 6 slot, gambar baru mengisi slot berikutnya, setelah penuh menimpa yang terlama -->
+        <div id="history" class="history-strip">
+          <button type="button" class="blue-key" data-i="0"><span class="ball-mark"></span></button>
+          <button type="button" class="blue-key" data-i="1"><span class="ball-mark"></span></button>
+          <button type="button" class="blue-key" data-i="2"><span class="ball-mark"></span></button>
+          <button type="button" class="blue-key" data-i="3"><span class="ball-mark"></span></button>
+          <button type="button" class="blue-key" data-i="4"><span class="ball-mark"></span></button>
+          <button type="button" class="blue-key" data-i="5"><span class="ball-mark"></span></button>
+        </div>
+
         <div class="white-bottom-bar">
           <div class="bottom-left-ctrl">
             <span id="dec-dot" class="red-corner-dot" aria-hidden="true"></span>
@@ -62,48 +71,8 @@
       </div>
     </section>
 
-    <!-- ================= KANAN: KONTROL & HASIL ================= -->
+    <!-- KANAN: KONTROL & HASIL -->
     <aside class="dex-right">
-
-      <!-- Modul Merah Atas -->
-      <section class="red-module-box">
-        <div class="red-module-top-dots" aria-hidden="true">
-          <span></span>
-          <span></span>
-        </div>
-
-        <div class="red-screen">
-          <div id="status" class="status loading" role="status">
-            <span class="dot"></span>
-            <span id="status-text">Memuat model…</span>
-          </div>
-
-          <div class="red-actions">
-            <label class="topk-control" for="topk">
-              <span>TOP-K</span>
-              <select id="topk">
-                <option>1</option>
-                <option>2</option>
-                <option selected>3</option>
-                <option>4</option>
-                <option>5</option>
-              </select>
-            </label>
-          </div>
-        </div>
-
-        <div class="red-module-bottom" aria-hidden="true">
-          <span class="mini-red-btn"></span>
-          <div class="mini-bars">
-            <span class="bar-g"></span>
-            <span class="bar-o"></span>
-          </div>
-          <div class="mini-grill">
-            <span></span><span></span><span></span>
-          </div>
-          <span class="screw">⊗</span>
-        </div>
-      </section>
 
       <!-- Modul Abu-abu Tengah (Hasil Klasifikasi) -->
       <section class="grey-module-box" aria-live="polite">
@@ -158,16 +127,6 @@
             <dl id="info" class="info"></dl>
           </div>
         </div>
-      </section>
-
-      <!-- Keypad Bawah: 6 Tombol Pokéball Biru -->
-      <section class="blue-keypad" aria-hidden="true">
-        <div class="blue-key"><span class="ball-mark"></span></div>
-        <div class="blue-key"><span class="ball-mark"></span></div>
-        <div class="blue-key"><span class="ball-mark"></span></div>
-        <div class="blue-key"><span class="ball-mark"></span></div>
-        <div class="blue-key"><span class="ball-mark"></span></div>
-        <div class="blue-key"><span class="ball-mark"></span></div>
       </section>
 
     </aside>

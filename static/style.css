@@ -45,20 +45,14 @@ body {
   }
 }
 
-/* ================= FULLSCREEN LAYOUT ================= */
+/* FULLSCREEN LAYOUT */
 .dex-fullscreen {
   width: 100vw;
   height: 100vh;
   display: grid;
-  grid-template-columns: 1fr 400px;
+  grid-template-columns: 1fr clamp(420px, 36vw, 760px);
   background: var(--red);
   overflow: hidden;
-}
-
-@media (min-width: 1280px) {
-  .dex-fullscreen {
-    grid-template-columns: 1fr 440px;
-  }
 }
 
 @media (max-width: 960px) {
@@ -71,7 +65,7 @@ body {
   }
 }
 
-/* ================= KIRI: LAYAR UTAMA ================= */
+/* KIRI: LAYAR UTAMA */
 .dex-left {
   display: flex;
   flex-direction: column;
@@ -119,6 +113,10 @@ body {
   background: radial-gradient(circle at 32% 30%, #9ce8ff 0%, var(--blue-lens) 52%, #076ca3 100%);
   border: 3px solid var(--ink);
   position: relative;
+}
+
+.big-lens:not(.ready) .big-lens-inner {
+  background: radial-gradient(circle at 32% 30%, #ff9a9a 0%, #e5000f 52%, #7a0008 100%);
 }
 
 .big-lens-glare {
@@ -340,7 +338,7 @@ body {
   border-radius: 2px;
 }
 
-/* ================= KANAN: PANEL KONTROL & HASIL ================= */
+/* KANAN: PANEL KONTROL & HASIL */
 .dex-right {
   display: flex;
   flex-direction: column;
@@ -767,7 +765,7 @@ h3 {
   to { opacity: 1; transform: none; }
 }
 
-/* ================= HASIL MUAT DALAM SATU LAYAR (tanpa scroll) ================= */
+/* HASIL MUAT DALAM SATU LAYAR (tanpa scroll) */
 #result:not([hidden]) {
   display: flex;
   flex-direction: column;
@@ -814,4 +812,41 @@ h3 {
   .ball-mark { width: 22px; height: 22px; }
   .dex-right { gap: 7px; }
   .pk-name { font-size: 1.1rem; }
+}
+
+/* RIWAYAT */
+.history-strip {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+  flex: none;
+  margin-top: 10px;
+  padding-bottom: 3px;
+}
+
+.history-strip .blue-key {
+  height: 104px;
+  padding: 0;
+  font: inherit;
+  appearance: none;
+  cursor: default;
+  overflow: hidden;
+}
+.history-strip .blue-key.filled { cursor: pointer; }
+.history-strip .blue-key.filled:hover { filter: brightness(1.06); }
+.history-strip .blue-key img {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  object-fit: contain;
+  background: var(--white);
+  border: 2px solid var(--white);
+  border-radius: 6px;
+}
+.history-strip .blue-key.active img {
+  border: 3px solid var(--ink);
+}
+
+@media (max-width: 960px) {
+  .history-strip { gap: 6px; }
+  .history-strip .blue-key { height: 64px; }
 }
